@@ -1,6 +1,12 @@
-Dedicado, atento e muito motivado. Busco me especializar na área de desenvolvimento de sistemas,
-melhorando minhas habilidades como programador.
-Pretendo atuar nas áreas de:
-• Desenvolvimento web;
-• Gestão de Banco de dados;
-• Programador de back-end.
+### Olá, sou Gabriel Felix  👨🏻‍💻
+<h6> 💫 #desenvolvimentoweb, #computação, #games, #ilustraçãodigital e #tecnologia </h6>
+
+#
+
+-📚 Explorando minhas capacidades na tecnologia!
+
+-🧱 Tenho conhecimento em Python, SQL, HTML e C/C++.
+
+-👨🏻‍🎓 Cursando Ciências da Computação na UFPB
+
+
